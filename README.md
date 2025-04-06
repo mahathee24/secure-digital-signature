@@ -34,7 +34,8 @@ This project demonstrates a **full-stack implementation** of the Digital Signatu
 ## 🗂️ Project Structure
 
 ```
-Digital-Signature-Standard-DSS/
+ain -> main (forced update)
+DSS_MK_INS/
 ├── api.py                  # Main Flask app with API routes
 ├── generate_signature.py   # Signature creation logic
 ├── verify_signature.py     # Signature verification logic
